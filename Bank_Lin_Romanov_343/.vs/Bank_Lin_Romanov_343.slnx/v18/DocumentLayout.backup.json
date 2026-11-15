@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\C#\\Bank_Lin_Romanov_343\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47A7432-A7E2-4CE8-9C3E-FC0A45574DC0}|Bank_Lin_Romanov_343\\Bank_Lin_Romanov_343.csproj|d:\\c#\\bank_lin_romanov_343\\bank_lin_romanov_343\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47A7432-A7E2-4CE8-9C3E-FC0A45574DC0}|Bank_Lin_Romanov_343\\Bank_Lin_Romanov_343.csproj|solutionrelative:bank_lin_romanov_343\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB3EC98B-DE61-87DB-0993-5F1383E69F4F}|Bank_Lin_Romanov_343\\Bank_Lin_Romanov_343.csproj|d:\\c#\\bank_lin_romanov_343\\bank_lin_romanov_343\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3EC98B-DE61-87DB-0993-5F1383E69F4F}|Bank_Lin_Romanov_343\\Bank_Lin_Romanov_343.csproj|solutionrelative:bank_lin_romanov_343\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Bank_Lin_Romanov_343\\Program.cs",
               "ToolTip": "D:\\C#\\Bank_Lin_Romanov_343\\Bank_Lin_Romanov_343\\Program.cs",
               "RelativeToolTip": "Bank_Lin_Romanov_343\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-15T22:05:01.234Z",
               "EditorCaption": "",
