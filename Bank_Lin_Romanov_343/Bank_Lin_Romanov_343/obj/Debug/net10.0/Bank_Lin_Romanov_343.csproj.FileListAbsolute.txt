@@ -1,0 +1,16 @@
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\bin\Debug\net10.0\Bank_Lin_Romanov_343.exe
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\bin\Debug\net10.0\Bank_Lin_Romanov_343.deps.json
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\bin\Debug\net10.0\Bank_Lin_Romanov_343.runtimeconfig.json
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\bin\Debug\net10.0\Bank_Lin_Romanov_343.runtimeconfig.dev.json
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\bin\Debug\net10.0\Bank_Lin_Romanov_343.dll
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\bin\Debug\net10.0\Bank_Lin_Romanov_343.pdb
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin_Romanov_343.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin_Romanov_343.AssemblyInfoInputs.cache
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin_Romanov_343.AssemblyInfo.cs
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin_Romanov_343.csproj.CoreCompileInputs.cache
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin_Romanov_343.dll
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\refint\Bank_Lin_Romanov_343.dll
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin_Romanov_343.pdb
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin_Romanov_343.genruntimeconfig.cache
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\ref\Bank_Lin_Romanov_343.dll
+D:\C#\Bank_Lin_Romanov_343\Bank_Lin_Romanov_343\obj\Debug\net10.0\Bank_Lin.80C18E26.Up2Date
